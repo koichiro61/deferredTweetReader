@@ -4,7 +4,7 @@
 # "elavated access" is required,
 #   which is given to applicants on the developers portal
 
-account = 'shin72826'           # screen name
+account = 'screenname'           # screen name
 tweets_to_fetch = 10            # max number of tweets to fetch at one time
 interval_to_fetch = 15  # in seconds
 defer_time = 180        # in seconds200
