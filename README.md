@@ -5,4 +5,4 @@ You could enjoy games on sports program on DAZN (or other live streaming sevices
 
 Developed and running on Pythonista 3 on my iPad.
 
-API_KEY, API_SECRET, ACCESS_TOKEN and ACCESS_TOKEN_SECRET, and 'elavated access' are needed. Get your own on twitter's developer forum. 
+API_KEY, API_SECRET, ACCESS_TOKEN and ACCESS_TOKEN_SECRET, and 'elavated access' are needed. Get your own on twitter's developer portal.
